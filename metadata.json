@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "An exhilarating iGaming Crash Multiplier Arena featuring mobile and web responsive styling, spacebar control hotkeys, live rising multipliers, auto cashout, and dynamic South African Rand (ZAR) demo betting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
